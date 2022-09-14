@@ -85,22 +85,23 @@
       }
     }
   },
-  "block-start": {
-    "value": "@mixin mode {",
-    "type": "other",
-    "description": "start of block transform"
-  },
-  "block-end": {
-    "value": "}",
-    "type": "other",
-    "description": "end of block transform"
-  },
-  "custom-comment": {
-    "value": "scss/var @mixin mode -- dark theme auto-generated from UIKIT prcv360",
-    "type": "other"
-  },
-  "transform": {
-    "value": "scss",
-    "type": "other"
+  "figma2Tokens": {
+    "comment": {
+      "value": "Auto generated theme file for scss mixin",
+      "type": "other"
+    },
+    "create": {
+      "value": "@mixin mode",
+      "type": "other",
+      "description": "scss theme block"
+    },
+    "ext": {
+      "value": "scss",
+      "type": "other"
+    },
+    "file": {
+      "value": "_dark",
+      "type": "other"
+    }
   }
 }
