@@ -29,57 +29,57 @@
   },
   "s-color": {
     "active": {
-      "background-color": {
+      "background": {
         "value": "{a-color-activePurple}",
         "type": "color"
       },
-      "text-color": {
+      "text": {
         "value": "{a-color-white}",
         "type": "color"
       },
-      "border-color": {
+      "border": {
         "value": "{a-color-white}",
         "type": "color"
       },
       "hover": {
-        "border-color": {
+        "border": {
           "value": "{a-color-white}",
           "type": "color"
         }
       }
     },
     "selected": {
-      "background-color": {
+      "background": {
         "value": "{a-color-peaGreen}",
         "type": "color"
       },
-      "text-color": {
+      "text": {
         "value": "{a-color-black}",
         "type": "color"
       },
-      "border-color": {
+      "border": {
         "value": "{a-color-white}",
         "type": "color"
       },
       "hover": {
-        "border-color": {
+        "border": {
           "value": "{a-color-white}",
           "type": "color"
         }
       }
     },
     "disabled": {
-      "background-color": {
+      "background": {
         "value": "{a-color-foggyPurple}",
         "type": "color"
       },
-      "text-color": {
+      "text": {
         "value": "{a-color-dirtyGray}",
         "type": "color"
       }
     },
     "surface": {
-      "background-color": {
+      "background": {
         "value": "{a-color-deepPurple}",
         "type": "color"
       }
