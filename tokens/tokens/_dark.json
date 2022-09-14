@@ -84,5 +84,23 @@
         "type": "color"
       }
     }
+  },
+  "block-start": {
+    "value": "@mixin mode {",
+    "type": "other",
+    "description": "start of block transform"
+  },
+  "block-end": {
+    "value": "}",
+    "type": "other",
+    "description": "end of block transform"
+  },
+  "custom-comment": {
+    "value": "scss/var @mixin mode -- dark theme auto-generated from UIKIT prcv360",
+    "type": "other"
+  },
+  "transform": {
+    "value": "scss",
+    "type": "other"
   }
 }
